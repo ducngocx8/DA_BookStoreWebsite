@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Admin\Desktop\TAI_LIEU\CNPM\QLSACH\QLSACH\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4231857967.index
+3020223124.index
+679190648.index
+3614936517.index
+2221102494.index

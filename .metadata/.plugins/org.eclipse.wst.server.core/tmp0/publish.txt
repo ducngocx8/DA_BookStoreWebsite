@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Wed Jan 03 01:10:45 ICT 2024
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Admin\\Desktop\\TAI_LIEU\\CNPM\\QLSACH\\QLSACH\\QLSACH\\Webcontent\\WEB-INF\\lib\\spring-web-4.0.1.RELEASE.jar=WEB-INF/lib/spring-web-4.0.1.RELEASE.jar
